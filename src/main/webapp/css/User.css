@@ -1,0 +1,6 @@
+@charset "UTF-8";
+.book{
+	height: 60;
+	width: 160;
+	background-color: red;
+}

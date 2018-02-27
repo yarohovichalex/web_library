@@ -1,0 +1,9 @@
+.editBook{	
+	display: inline-block;
+}
+.bookStyle{
+	background-color: red;
+	width: 550px;
+	height: 200px;
+	border: 3px solid #008000;
+}
